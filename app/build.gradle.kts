@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "nit2x.paba.cobafirebase"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "nit2x.paba.cobafirebase"
